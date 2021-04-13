@@ -4,9 +4,9 @@
 
 - 授课学期：2020-2021-2学期
 - 参考教材：
-  - 《神经网络与深度学习》，邱锡鹏， https://nndl.github.io/
-  - 《动手学深度学习》，李沐 等人 https://d2l.ai/ 
-  - 《Deep Learning》，Goodfellow et al. https://www.deeplearningbook.org/
+  - [《神经网络与深度学习》，邱锡鹏](https://nndl.github.io/)
+  - [《动手学深度学习》，李沐 等人 ](https://d2l.ai/ )
+  - [《Deep Learning》，Goodfellow et al.](https://www.deeplearningbook.org/) 
 
 ## 课程内容
 
@@ -34,9 +34,14 @@
 > 可以在课程主页或B站、Youtube上观看
 
 - Deep Learning.ai，吴恩达 等
+
 - 斯坦福大学 [CS231n: CNNs for Visual Recognition](http://cs231n.stanford.edu/)，Feifei Li等人
+
 - 机器学习、深度学习，李宏毅
+
 - [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/)
+
+  ​
 
 
 
