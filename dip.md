@@ -1,6 +1,6 @@
 # 数字图像处理
 
-# Digital Image Processing
+> Digital Image Processing
 
 【[主页](https://aiart.live/courses/)】【[深度学习](https://aiart.live/courses/dl.html)】【[计算机视觉](https://aiart.live/courses/cv.html)】【[数字图像处理](https://aiart.live/courses/dip.html)】【[人工智能导论](https://aiart.live/courses/intro2ai.html)】
 
