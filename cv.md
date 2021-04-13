@@ -40,9 +40,9 @@
 
 - [Computer Vision: Algorithms and Applications](https://szeliski.org/Book/), by Richard Szeliski
 
-- [计算摄影学 @ 知乎](https://www.zhihu.com/column/hawkcpProgramming )
+- [计算摄影学 @ 知乎](https://www.zhihu.com/column/hawkcp)
 
-- Computer Vision with Python, Jan Erik Solem
+- Programming Computer Vision with Python, Jan Erik Solem
 
 - [CS543/ECE549 Computer Vision, UIUC](https://courses.engr.illinois.edu/)
 
