@@ -39,3 +39,5 @@
 - CS543/ECE549 Computer Vision, UIUC, https://courses.engr.illinois.edu/
 
 ![cv_qrcode](计算机视觉基础/cv_qrcode.jpg)
+
+【[主页](https://aiart.live/courses/)】【[深度学习](https://aiart.live/courses/dl.html)】【[计算机视觉](https://aiart.live/courses/cv.html)】【[数字图像处理](https://aiart.live/courses/dip.html)】【[人工智能导论](https://aiart.live/courses/intro2ai.html)】
