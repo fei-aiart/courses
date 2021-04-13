@@ -2,6 +2,8 @@
 
 # Introduction to Artificial Intelligence
 
+【[主页](https://aiart.live/courses/)】【[深度学习](https://aiart.live/courses/dl.html)】【[计算机视觉](https://aiart.live/courses/cv.html)】【[数字图像处理](https://aiart.live/courses/dip.html)】【[人工智能导论](https://aiart.live/courses/intro2ai.html)】
+
 ## 基本信息
 
 - 授课教师：[高飞](http://aiart.live) @ 杭电
@@ -46,8 +48,4 @@
 
 - [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/)
 
-  ​
 
-
-
-【[主页](https://aiart.live/courses/)】【[深度学习](https://aiart.live/courses/dl.html)】【[计算机视觉](https://aiart.live/courses/cv.html)】【[数字图像处理](https://aiart.live/courses/dip.html)】【[人工智能导论](https://aiart.live/courses/intro2ai.html)】
