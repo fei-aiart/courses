@@ -34,6 +34,10 @@
 > 可以在课程主页或B站、Youtube上观看
 
 - Deep Learning.ai，吴恩达 等
-- 斯坦福大学 CS231n: CNNs for Visual Recognition，http://cs231n.stanford.edu/，Feifei Li等人
+- 斯坦福大学 [CS231n: CNNs for Visual Recognition](http://cs231n.stanford.edu/)，Feifei Li等人
 - 机器学习、深度学习，李宏毅
-- MIT 6.S191 Introduction to Deep Learning，http://introtodeeplearning.com/
+- [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/)
+
+
+
+\> 返回[课程列表](https://aiart.live/courses/)
