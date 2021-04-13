@@ -2,9 +2,10 @@
 
 ## 基本信息
 
+- 授课教师：[高飞](http://aiart.live) @ 杭电
 - 授课学期：2020-2021-2学期
 - 参考教材：
-  - 《计算机视觉：算法与应用》Computer Vision: Algorithms and Applications, by Richard Szeliski, https://szeliski.org/Book/
+  - [《计算机视觉：算法与应用》Computer Vision: Algorithms and Applications](https://szeliski.org/Book/), by Richard Szeliski
   - Programming Computer Vision with Python, Jan Erik Solem
 
 ## 课程内容
@@ -33,10 +34,10 @@
 ## 参考资料
 
 - Computer Vision: A Modern Approach by David Forsyth and Jean Ponce (2nd ed.)
-- Computer Vision: Algorithms and Applications, by Richard Szeliski, https://szeliski.org/Book/
-- 计算摄影学 @ https://www.zhihu.com/column/hawkcpProgramming 
+- [Computer Vision: Algorithms and Applications](https://szeliski.org/Book/), by Richard Szeliski, https://szeliski.org/Book/
+- [计算摄影学 @ 知乎](https://www.zhihu.com/column/hawkcpProgramming )
 - Computer Vision with Python, Jan Erik Solem
-- CS543/ECE549 Computer Vision, UIUC, https://courses.engr.illinois.edu/
+- [CS543/ECE549 Computer Vision, UIUC](https://courses.engr.illinois.edu/)
 
 ![cv_qrcode](计算机视觉基础/cv_qrcode.jpg)
 

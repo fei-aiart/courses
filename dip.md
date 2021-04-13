@@ -1,16 +1,20 @@
-# 数字图像处理 Digital Image Processing
+# 数字图像处理
+
+# Digital Image Processing
 
 ## 基本信息
 
+- 授课教师：[高飞](http://aiart.live) @ 杭电
+
 - 授课学期：2020-2021-1学期
+
 - 参考教材：
-  - [《神经网络与深度学习》，邱锡鹏](https://nndl.github.io/)
-  - [《动手学深度学习》，李沐 等人 ](https://d2l.ai/ )
-  - [《Deep Learning》，Goodfellow et al.](https://www.deeplearningbook.org/) 
+
+  ![mindmap-dip](数字图像处理/dip-book.jpg)
 
 ## 课程内容
 
-早期版本：【[2019-2020-2学期](深度学习/2021)】
+![mindmap-dip](数字图像处理/mindmap-dip.png)
 
 |  序号  | 内容                                       | 作业                                       |
 | :--: | ---------------------------------------- | ---------------------------------------- |
@@ -31,19 +35,12 @@
 |  15  | 学生大作业报告 I                                |                                          |
 |  16  | 学生大作业报告 II                               |                                          |
 
-## 推荐公开课程
+## 其他参考资料
 
-> 可以在课程主页或B站、Youtube上观看
-
-- Deep Learning.ai，吴恩达 等
-
-- 斯坦福大学 [CS231n: CNNs for Visual Recognition](http://cs231n.stanford.edu/)，Feifei Li等人
-
-- 机器学习、深度学习，李宏毅
-
-- [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/)
+- Programming Computer Vision with Python, Jan Erik Solem
 
   ​
+
 
 
 
