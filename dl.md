@@ -29,7 +29,7 @@
 |  8   | [卷积神经网络的应用](深度学习/2021/chap5.3-AdaIN.pptx) | [基于CNN的FashionMNIST图像分类](深度学习/dl-assignment3-cnn.md) |
 |  9   | [图像生成模型](深度学习/2021/chap6.1-Deep_Generative_Modeling_6S191_MIT.pdf) | 注：采用了MIT 6.S191课件                        |
 |  10  | [生成对抗网络](深度学习/2021/chap6-生成对抗网络及其应用.pptx) |                                          |
-|  11  | [网络优化与正则化](深度学习/2021/chap7-网络优化与正则化 - 简要.pptx) |                                          |
+|  11  | [网络优化与正则化](深度学习/2021/chap7-网络优化与正则化-简要.pptx) |                                          |
 |  12  | [深度序列模型](深度学习/2021/Chap8-Deep_Sequence_Modeling_6S191_MIT.pdf) | 注：采用了MIT 6.S191课件                        |
 |  13  | [注意力机制](深度学习/2021/chap9-注意力机制.pptx)      |                                          |
 
