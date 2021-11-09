@@ -10,7 +10,7 @@
 - 【[计算机视觉](https://aiart.live/courses/cv.html)】
 - 【[计算机视觉基础](https://aiart.live/courses/cvf.html)】
 - 【[数字图像处理](https://aiart.live/courses/dip.html)】
-- 【[人工智能导论](https://aiart.live/courses/intro2ai.html)】
+- 【[人工智能导论](https://aiart.live/courses/i2ai.html)】
 
 
 

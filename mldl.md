@@ -2,7 +2,7 @@
 
 > Machine Learning and Deep Learning
 
-【[主页](https://aiart.live/courses/)】【[深度学习](https://aiart.live/courses/dl.html)】【[计算机视觉](https://aiart.live/courses/cv.html)】【[数字图像处理](https://aiart.live/courses/dip.html)】【[人工智能导论](https://aiart.live/courses/intro2ai.html)】
+【[课程列表主页](https://aiart.live/courses/)】
 
 ## 基本信息
 
@@ -21,10 +21,10 @@
 | ---------------------------------------- | ---------------------------------------- |
 | 绪论[part1](机器学习与深度学习/01MLDL-绪论part1.pdf) 、 [part2](机器学习与深度学习/01MLDL-绪论part2.pdf) | [前沿科技资讯](深度学习/dl-assignment4-TechNews.md) |
 | [机器学习基本概念](机器学习与深度学习/02机器学习基本概念.pdf)     |                                          |
-| [K近邻方法](深度学习/2021/chap2.2-模型评估与选择.pdf)   | [基于K近邻KNN的MNIST图像分类](深度学习/dl-assignment1-knn.md) |
-| 决策树                                      |                                          |
+| [K近邻方法](机器学习与深度学习/03K近邻方法及实践.pdf)        | [基于K近邻KNN的MNIST图像分类](深度学习/dl-assignment1-knn.md) |
+| [决策树](机器学习与深度学习/04决策树.pdf)               |                                          |
+| [线性模型](机器学习与深度学习/05线性模型.pdf)             |                                          |
 | [模型评估与选择](深度学习/2021/chap2.2-模型评估与选择.pdf) |                                          |
-| [线性模型](深度学习/2021/chap3-线性模型.pdf)         |                                          |
 | 支持向量机与核方法                                |                                          |
 | [神经网络ANN](深度学习/2021/chap4-前馈神经网络.pdf)    | [基于ANN的MNIST图像分类](深度学习/dl-assignment2-ann.md) |
 | [卷积神经网络基础](深度学习/2021/chap5.1-卷积神经网络I.pdf) |                                          |
@@ -58,8 +58,8 @@
    - 讨论积极性/次数
    - 回答问题准确性
 2. 科技资讯 10%
-   - 指定信息来源（科技类公众号）
-   - 口头报告：内容充实性、讲解清晰度
+   - 指定信息来源（科技类公众号），人均1条
+   - 口头报告：内容充实性、报告美观性、讲解清晰度
 3. 编程作业 45%
    - 在小数据集上，训练和测试机器学习方法（Python、Matlab等，不限编程语言）
    - 可以使用scikit-learn、Pytorch、TensorFlow等框架
