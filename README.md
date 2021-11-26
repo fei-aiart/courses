@@ -5,12 +5,12 @@
 
 【[主页](https://aiart.live/courses/)】
 
-|          ![mldl](imgs/mldl.jpg)          |           ![mldl](imgs/dl.jpg)           |
+| <img src="/imgs/mldl.jpg" height="150">  |  <img src="/imgs/dl.jpg" height="150">   |
 | :--------------------------------------: | :--------------------------------------: |
 | [机器学习与深度学习](https://aiart.live/courses/mldl.html) | [深度学习](https://aiart.live/courses/dl.html) |
-|          ![mldl](imgs/cvf.jpg)           |           ![mldl](imgs/cv.jpg)           |
+|  <img src="/imgs/cvf.jpg" height="150">  |  <img src="/imgs/cv.jpg" height="150">   |
 | [计算机视觉基础](https://aiart.live/courses/cvf.html) | [计算机视觉](https://aiart.live/courses/cv.html) |
-|          ![mldl](imgs/dip.jpg)           |           ![mldl](imgs/ai.jpg)           |
+|  <img src="/imgs/dip.jpg" height="150">  |  <img src="/imgs/ai.jpg" height="150">   |
 | [数字图像处理](https://aiart.live/courses/dip.html) | [人工智能导论](https://aiart.live/courses/i2ai.html) |
 
 
