@@ -12,11 +12,9 @@
 
 - 参考教材：
   
-  ![mindmap-dip](数字图像处理/dip-book.jpg)
+  <img title="" src="数字图像处理/dip-book.jpg" alt="mindmap-dip" width="341">
 
 ## 课程内容
-
-![mindmap-dip](数字图像处理/mindmap-dip.png)
 
 **PPTX Slides:** 【[Google Drive](https://drive.google.com/drive/folders/1FaTOF5QAq0VQz-oYt2gbrhor4K2gpyPq?usp=sharing)】【[2020版本](数字图像处理/2020)】
 
@@ -38,6 +36,8 @@
 |     |                                                       |     |
 |     |                                                       |     |
 |     |                                                       |     |
+
+![mindmap-dip](数字图像处理/mindmap-dip.png)
 
 ## 其他参考资料
 
