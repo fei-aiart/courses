@@ -16,7 +16,7 @@
 
 ## 课程内容
 
-**PPTX Slides:** 【[Google Drive](https://drive.google.com/drive/folders/1FaTOF5QAq0VQz-oYt2gbrhor4K2gpyPq?usp=sharing)】【[2020版本](数字图像处理/2020)】
+**PPTX Slides:** 【[Google Drive](https://drive.google.com/file/d/1kBmLd-Ik4n2GndXj-rt86rzVzGmG6qqS/view?usp=sharing)】【[坚果云](https://www.jianguoyun.com/p/DdvpZIgQ7dvLCxiM94QFIAA)】【[2020版本](数字图像处理/2020)】
 
 | 序号  | 内容                                                                                                    |
 |:---:| ----------------------------------------------------------------------------------------------------- |
