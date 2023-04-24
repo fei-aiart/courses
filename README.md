@@ -17,9 +17,9 @@
 
 | <img title="" src="/imgs/mldl.jpg" alt="" height="150"> | <img title="" src="/imgs/dl.jpg" alt="" height="150"> | <img title="" src="/imgs/ai.jpg" alt="" height="150">  |
 |:--------------------------------------------------------------:|:------------------------------------------------------------:|:-------------------------------------------------------------:|
-| [机器学习与深度学习](mldl.md)              | [深度学习](https://aiart.live/courses/dl.html)                   | [人工智能导论](https://aiart.live/courses/i2ai.html)                |
+| [机器学习与深度学习](mldl.md)  | [深度学习](dl.md)  | [人工智能导论](i2ai.md)   |
 | <img title="" src="/imgs/cvf.jpg" alt="" height="150">  | <img title="" src="/imgs/cv.jpg" alt="" height="150"> | <img title="" src="/imgs/dip.jpg" alt="" height="150"> |
-| [计算机视觉基础](https://aiart.live/courses/cvf.html)                 | [计算机视觉](https://aiart.live/courses/cv.html)                  | [数字图像处理](https://aiart.live/courses/dip.html)                 |
+| [计算机视觉基础](cvf.md)   | [计算机视觉](cv.md)   | [数字图像处理](dip.md)  |
 
 > - 有些页面还在更新过程中...
 > - 如有谬误，欢迎指出
