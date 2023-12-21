@@ -12,7 +12,7 @@
 
 - 参考教材：[英文网站](https://www.imageprocessingplace.com/index.htm)
   
-  <img title="" src="数字图像处理/dip-book.jpg" alt="mindmap-dip" width="341">
+  <img title="" src="/数字图像处理/dip-book.jpg" alt="mindmap-dip" width="341">
 
 ## 课程内容
 
@@ -32,7 +32,7 @@
 | 10  | [图像压缩](数字图像处理/2022/DIP-2-10图像压缩.pdf)                                                                  |
 | 11  | [图像分割、目标表达、形态学](数字图像处理/2022/DIP-2-11图像分割、目标表达、形态学.pdf)                                                |
 
-![mindmap-dip](数字图像处理/mindmap-dip.png)
+![mindmap-dip](/数字图像处理/mindmap-dip.png)
 
 ## 其他参考资料
 
