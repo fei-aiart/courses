@@ -1,27 +1,18 @@
 # 人工智能相关课程：课件 Slides
 
 > - [高飞](http://aiart.live) @ 西安电子科技大学 杭州研究院
-> - 主要是2015-2022年期间，于杭州电子科技大学任教时的课件，所以带着原来的logo等。
-> - 个人教学课件，参考了很多网络资源。
+> - 个人教学课件，参考了很多网络资源
+> - 如有侵权或谬误，欢迎指出！
 
 ## 如有需要，欢迎采用（非商用）!
 
-``` 
-个人感觉：
-- 《数字图像》的课件最好，基本按照冈萨雷斯大神的教材来准备的。
-- 《计算机视觉（基础）》的两个还行，主要是传统方法，深度学习只最后讲一点儿，有些素材质量不高。
-  - 进阶版《计算机视觉》，建议直接参考斯坦福的 cs31n
-- 《深度学习》入题比较慢，主要是之前的学生没有学过机器学习，所以前面讲了不少基础知识。
-如果学生有较好的基础，可以参考《智能计算系统》、MIT的深度学习或斯坦福的CS231n，增加深度学习前沿内容。
-```
+|   | 课程名(主页) | 课件 Slides | 更新时间 | 备注 |
+|---|:-----:|:-----------:|:------:|:------:|
+| <img title="" src="/imgs/dip.jpg" alt="" height="50">  | [数字图像处理](dip.md) | [Google Drive](https://drive.google.com/file/d/1kBmLd-Ik4n2GndXj-rt86rzVzGmG6qqS/view?usp=sharing) [坚果云](https://www.jianguoyun.com/p/DdvpZIgQ7dvLCxiM94QFIAA) |  | 参考[冈萨雷斯大神的教材第4版](https://www.imageprocessingplace.com/index.htm) |
+| <img title="" src="/imgs/cv.jpg" alt="" height="50">  | [计算机视觉](cv.md) |  [百度云](https://pan.baidu.com/s/1itg1i9tG2KAdnddz_mqYAw?pwd=wqkc)(提取码：wqkc)，[Google Drive](https://drive.google.com/file/d/1fUCv_PEQ35MjS6EeDlaj74VGeKD6sQH5/view?usp=sharing) | 2021 | 建议采用[斯坦福CS231n](http://cs231n.stanford.edu/) | 
+| <img title="" src="/imgs/cvf.jpg" alt="" height="50">   | [计算机视觉基础](cvf.md)  | [百度云](https://pan.baidu.com/s/1aSCzfstViyukKwRmpdgtpw) ( 提取码：`3zb7` ) | 2021 | 主要是传统方法，深度学习较少 |
+| <img title="" src="/imgs/dl.jpg" alt="" height="50">   | [深度学习](dl.md) |  [Google Drive](https://drive.google.com/file/d/1ApC7AewwzWdOqWsodKIcDCgJ9zfvm6pY/view?usp=share_link)| 2023 | 入题较慢，可以参考[MIT 6.S191](http://introtodeeplearning.com/)、[斯坦福CS231n](http://cs231n.stanford.edu/)改进  |
+| <img title="" src="/imgs/mldl.jpg" alt="" height="50"> | [机器学习与深度学习](mldl.md)  | [PDF](mldl.md) | 2021 | 加了几节机器学习 |
 
-【[主页](https://aiart.live/courses/)】
 
-| <img title="" src="/imgs/mldl.jpg" alt="" height="150"> | <img title="" src="/imgs/dl.jpg" alt="" height="150"> | <img title="" src="/imgs/ai.jpg" alt="" height="150">  |
-|:--------------------------------------------------------------:|:------------------------------------------------------------:|:-------------------------------------------------------------:|
-| [机器学习与深度学习](mldl.md)  | [深度学习](dl.md)  | [人工智能导论](i2ai.md)   |
-| <img title="" src="/imgs/cvf.jpg" alt="" height="150">  | <img title="" src="/imgs/cv.jpg" alt="" height="150"> | <img title="" src="/imgs/dip.jpg" alt="" height="150"> |
-| [计算机视觉基础](cvf.md)   | [计算机视觉](cv.md)   | [数字图像处理](dip.md)  |
 
-> - 有些页面还在更新过程中...
-> - 如有谬误，欢迎指出
