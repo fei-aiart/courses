@@ -35,8 +35,8 @@
 
 > 跟学生工作相关的一些嘟嘟囔囔，无甚高见
 
-- [学习的十个好习惯与坏习惯（译）(PDF)](https://github.com/fei-aiart/fei-aiart.github.io/blob/master/blogs/study_habits.pdf)
-- [研究生复试可能需要注意的事情](https://github.com/fei-aiart/fei-aiart.github.io/blob/master/blogs/reexamination.md)
-- [关于大学生活的一些个人想法(PDF)](https://github.com/fei-aiart/fei-aiart.github.io/blob/master/blogs/collegelife.pdf)
-- [关于科研的一些个人想法(PNG，参考了个人认同的一些他人的想法)](https://github.com/fei-aiart/fei-aiart.github.io/blob/master/blogs/research.png)
+- [学习的十个好习惯与坏习惯（译）(PDF)](/blogs/study_habits.pdf)
+- [研究生复试可能需要注意的事情](/blogs/reexamination.md)
+- [关于大学生活的一些个人想法(PDF)](/blogs/collegelife.pdf)
+- [关于科研的一些个人想法(PNG，参考了个人认同的一些他人的想法)](/blogs/research.png)
 
