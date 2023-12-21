@@ -19,22 +19,22 @@
 
 | 内容                                       | 作业                                       |
 | ---------------------------------------- | ---------------------------------------- |
-| 绪论[part1](/机器学习与深度学习/01MLDL-绪论part1.pdf) 、 [part2](/机器学习与深度学习/01MLDL-绪论part2.pdf) | [前沿科技资讯](深度学习/dl-assignment4-TechNews.md) |
+| 绪论[part1](/机器学习与深度学习/01MLDL-绪论part1.pdf) 、 [part2](/机器学习与深度学习/01MLDL-绪论part2.pdf) | [前沿科技资讯](/深度学习/dl-assignment4-TechNews.md) |
 | [机器学习基本概念](/机器学习与深度学习/02机器学习基本概念.pdf)     |                                          |
-| [K近邻方法](/机器学习与深度学习/03K近邻方法及实践.pdf)        | [基于K近邻的MNIST图像分类](深度学习/dl-assignment1-knn.md) |
+| [K近邻方法](/机器学习与深度学习/03K近邻方法及实践.pdf)        | [基于K近邻的MNIST图像分类](/深度学习/dl-assignment1-knn.md) |
 | [决策树](/机器学习与深度学习/04决策树.pdf)               |                                          |
 | [线性模型](/机器学习与深度学习/05线性模型.pdf)             |                                          |
 | [模型评估与选择](/机器学习与深度学习/06模型评估与选择.pdf)       |                                          |
 | [支持向量机与核方法](/机器学习与深度学习/07支持向量机.pdf)       |                                          |
-| [神经网络ANN](深度学习/2021/chap4-前馈神经网络.pdf)    | [基于ANN的MNIST图像分类](深度学习/dl-assignment2-ann.md) |
-| [卷积神经网络基础](深度学习/2021/chap5.1-卷积神经网络I.pdf) |                                          |
+| [神经网络ANN](/深度学习/2021/chap4-前馈神经网络.pdf)    | [基于ANN的MNIST图像分类](/深度学习/dl-assignment2-ann.md) |
+| [卷积神经网络基础](/深度学习/2021/chap5.1-卷积神经网络I.pdf) |                                          |
 | Pytorch编程及实践                             |                                          |
-| [卷积神经网络进阶](深度学习/2021/chap5.2-卷积神经网络II.pptx) |                                          |
-| [卷积神经网络的应用](深度学习/2021/chap5.3-AdaIN.pptx) | [基于CNN的FashionMNIST图像分类](深度学习/dl-assignment3-cnn.md) |
+| [卷积神经网络进阶](/深度学习/2021/chap5.2-卷积神经网络II.pptx) |                                          |
+| [卷积神经网络的应用](/深度学习/2021/chap5.3-AdaIN.pptx) | [基于CNN的FashionMNIST图像分类](/深度学习/dl-assignment3-cnn.md) |
 | 无监督学习：聚类及降维                              |                                          |
-| [图像生成模型：VAE、GAN ](深度学习/2021/chap6.1-Deep_Generative_Modeling_6S191_MIT.pdf) | 注：采用了MIT 6.S191课件                        |
-| [生成对抗网络GAN的应用](深度学习/2021/chap6-生成对抗网络及其应用.pptx) |                                          |
-| [深度序列模型](深度学习/2021/Chap8-Deep_Sequence_Modeling_6S191_MIT.pdf)、[注意力机制 ](深度学习/2021/chap9-注意力机制.pptx) | 注：采用了MIT 6.S191课件                        |
+| [图像生成模型：VAE、GAN ](/深度学习/2021/chap6.1-Deep_Generative_Modeling_6S191_MIT.pdf) | 注：采用了MIT 6.S191课件                        |
+| [生成对抗网络GAN的应用](/深度学习/2021/chap6-生成对抗网络及其应用.pptx) |                                          |
+| [深度序列模型](/深度学习/2021/Chap8-Deep_Sequence_Modeling_6S191_MIT.pdf)、[注意力机制 ](/深度学习/2021/chap9-注意力机制.pptx) | 注：采用了MIT 6.S191课件                        |
 | [强化学习]()                                 |                                          |
 
 ## 推荐公开课程
