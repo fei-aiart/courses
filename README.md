@@ -43,8 +43,8 @@
 > 跟学生工作相关的一些嘟嘟囔囔，无甚高见
 
 - [研究生复试可能需要注意的事情](/blogs/reexamination.md)
-- [关于大学生活的一些个人想法(PDF)](/blogs/collegelife.pdf)
-- 科研浅谈：过程vs.结果，导师vs.学生 [思维导图](/blogs/research.png)，[PPT/PDF](/blogs/research.pdf)
+- [关于大学生活的一些个人想法](/blogs/collegelife.pdf) (PDF)
+- [科研浅谈：过程vs.结果，导师vs.学生](/blogs/research.png) · [思维导图](/blogs/research.png)，[PPT/PDF](/blogs/research.pdf)
   > 参考了个人认同的他人(如吴恩达)的一些想法
 
 
