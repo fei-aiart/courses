@@ -44,7 +44,8 @@
 
 - [研究生复试可能需要注意的事情](/blogs/reexamination.md)
 - [关于大学生活的一些个人想法(PDF)](/blogs/collegelife.pdf)
-- [关于科研的一些个人想法(PNG，参考了个人认同的一些他人的想法)](/blogs/research.png)
+- 科研浅谈：过程vs.结果，导师vs.学生 [思维导图](/blogs/research.png)，[PPT/PDF](/blogs/research.pdf)
+  > 参考了个人认同的他人(如吴恩达)的一些想法
 
 
 
