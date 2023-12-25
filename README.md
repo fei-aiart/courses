@@ -14,9 +14,9 @@
 | <img title="" src="/imgs/mldl.jpg" alt="" width="100"> | [机器学习与深度学习](/pages/mldl.md)  | [PDF](mldl.md) | 2021 | 加了几节机器学习 |
 | <img title="" src="/imgs/ai.jpg" alt="" width="100"> | [人工智能导论](/pages/i2ai.md)  | [PPT/PDF](i2ai.md) | 2020 | 跟“人工智能”经典教材路数不同 |
 
-> 我的课件，字体一般采用[`阿里巴巴普惠体`](https://www.iconfont.cn/fonts/detail?spm=a313x.fonts_index.i1.d9df05512.79fa3a81k7M8Ey&cnid=adI1E7HF7yme)，如果 PPT 排版有问题，可以下载安装试试。
+> 字体一般采用[`阿里巴巴普惠体`](https://www.iconfont.cn/fonts/detail?spm=a313x.fonts_index.i1.d9df05512.79fa3a81k7M8Ey&cnid=adI1E7HF7yme)，如果 PPT 排版有问题，可以下载安装试试。
 >
-> 学校 logo 之类的信息，一般是在幻灯片`母版视图`中修改
+> 学校 logo 之类的信息，一般是在PPT`母版视图`中修改
 
 ## 小问卷
 
