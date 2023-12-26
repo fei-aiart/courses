@@ -46,6 +46,8 @@
 - [关于大学生活的一些个人想法](/blogs/collegelife.pdf) (PDF)
 - [科研浅谈：过程vs.结果，导师vs.学生](/blogs/research.png) · [思维导图](/blogs/research.png)，[PPT/PDF](/blogs/research.pdf)
   > 参考了个人认同的他人(如吴恩达)的一些想法
+  > 
+  > 有个更加`专业`且`简洁`的科研指南：[learning_research@pengsida](https://github.com/pengsida/learning_research)
 
 
 
