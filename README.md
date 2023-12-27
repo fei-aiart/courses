@@ -49,6 +49,8 @@
   > 
   > 有个更加`专业`且`简洁`的科研指南：[learning_research@pengsida](https://github.com/pengsida/learning_research)
 
+## Star History
 
+<img title="" src="/img/star-history-20231227.png" alt="" height="500">
 
 `End`
