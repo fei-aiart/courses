@@ -48,7 +48,7 @@
   > 
   > 有个更加`专业`且`简洁`的科研指南：[learning_research@pengsida](https://github.com/pengsida/learning_research)
 
-- [关于撰写技术文档的一些想法](https://github.com/fei-aiart/TechNotes)
+- [关于撰写技术文档的一些建议：排版、画图等](https://github.com/fei-aiart/TechNotes)
 - [研究生复试可能需要注意的事情](/blogs/reexamination.md)
 - [关于大学生活的一些个人想法](/blogs/collegelife.pdf) (PDF)
 
