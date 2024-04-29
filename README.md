@@ -10,9 +10,9 @@
 |      | 课程名(主页) | 课件 Slides（PPT+PDF） | 更新时间 | 备注 |
 |------:|:-----:|:-----------:|:------:|:------|
 | <img title="" src="https://github.com/fei-aiart/courses/blob/main/imgs/dip.jpg" alt="" width="100">  | [数字图像处理](/pages/dip.md) | [Google Drive](https://drive.google.com/file/d/1kBmLd-Ik4n2GndXj-rt86rzVzGmG6qqS/view?usp=sharing), [坚果云](https://www.jianguoyun.com/p/DdvpZIgQ7dvLCxiM94QFIAA) | 2022 | 参考[冈萨雷斯大神的教材第4版](https://www.imageprocessingplace.com/index.htm) |
+| <img title="" src="/imgs/dl.jpg" alt="" width="100">   | [深度学习](/pages/dl.md) |  [Google Drive](https://drive.google.com/file/d/1ApC7AewwzWdOqWsodKIcDCgJ9zfvm6pY/view?usp=share_link)，[坚果云(访问密码：`mdykW9`)](https://www.jianguoyun.com/p/DbRRtpgQ7dvLCxjrqcIFIAA)| 2024 | 入题较慢，可以参考[MIT 6.S191](http://introtodeeplearning.com/)、[斯坦福CS231n](http://cs231n.stanford.edu/)改进  |
 | <img title="" src="/imgs/cv.jpg" alt="" width="100">  | [计算机视觉](/pages/cv.md) |  [Google Drive](https://drive.google.com/file/d/1fUCv_PEQ35MjS6EeDlaj74VGeKD6sQH5/view?usp=sharing)，[百度云](https://pan.baidu.com/s/1itg1i9tG2KAdnddz_mqYAw?pwd=wqkc)(提取码：`wqkc`) | 2021 | 建议采用[斯坦福CS231n](http://cs231n.stanford.edu/) | 
 | <img title="" src="/imgs/cvf.jpg" alt="" width="100">   | [计算机视觉基础](/pages/cvf.md)  | [百度云](https://pan.baidu.com/s/1aSCzfstViyukKwRmpdgtpw) ( 提取码：`3zb7` ) | 2021 | 主要是传统方法，深度学习较少 |
-| <img title="" src="/imgs/dl.jpg" alt="" width="100">   | [深度学习](/pages/dl.md) |  [Google Drive](https://drive.google.com/file/d/1ApC7AewwzWdOqWsodKIcDCgJ9zfvm6pY/view?usp=share_link)| 2023 | 入题较慢，可以参考[MIT 6.S191](http://introtodeeplearning.com/)、[斯坦福CS231n](http://cs231n.stanford.edu/)改进  |
 | <img title="" src="/imgs/mldl.jpg" alt="" width="100"> | [机器学习与深度学习](/pages/mldl.md)  | [PDF](mldl.md) | 2021 | 加了几节机器学习 |
 | <img title="" src="/imgs/ai.jpg" alt="" width="100"> | [人工智能导论](/pages/i2ai.md)  | [PPT/PDF](i2ai.md) | 2020 | 跟“人工智能”经典教材路数不同 |
 
