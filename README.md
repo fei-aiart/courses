@@ -55,6 +55,6 @@
 
 ## Star History
 
-<img title="" src="/imgs/star-history-2024430.png" alt="" height="500">
+[![Star History Chart](https://api.star-history.com/svg?repos=fei-aiart/courses&type=Date)](https://star-history.com/#fei-aiart/courses&Date)
 
 `End`
