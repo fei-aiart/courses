@@ -29,12 +29,6 @@
 
 [问卷链接](https://www.wjx.top/vm/tKywvgq.aspx# )
 
-| 问卷二维码 | 问卷内容 |
-|--------------------------------|--------------------------------|
-| <img title="" src="/imgs/wjx.png" alt="" height="500"> | <img title="" src="/imgs/wjct.png" alt="" height="500"> | 
-
-
-
 ## 闲言碎语
 
 > 翻译的一个学习方法论，超级推荐
