@@ -3,7 +3,7 @@
 [![Page Views Count](https://badges.toozhao.com/badges/01HK9C6MQG1QK4H1JENV6VDPKG/blue.svg)](https://badges.toozhao.com/stats/01HK9C6MQG1QK4H1JENV6VDPKG "Get your own page views count badge on badges.toozhao.com")
 [![GitHub Stars](https://img.shields.io/github/stars/fei-aiart/courses?style=social)](https://github.com/fei-aiart/courses)
 
-> - [高飞](http://aiart.live) 个人教学课件，参考了很多网络资源
+> - [高飞](http://fei-aiart.github.io) 个人教学课件，参考了很多网络资源
 > - 如有侵权或谬误，欢迎指出！
 
 ## 如有需要，欢迎采用（非商用）
