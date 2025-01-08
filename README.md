@@ -8,7 +8,7 @@
 
 ## 高校教学，如有需要，欢迎采用 :) （非商用）
 
-|      | 课程名(主页) | 课件 Slides（PPT+PDF） | 更新时间 | 备注 |
+|      | 课程名 | 课件 Slides（PPT+PDF） | 更新时间 | 备注 |
 |------:|:-----:|:-----------:|:------:|:------|
 | <img title="" src="https://github.com/fei-aiart/courses/blob/main/imgs/dip.jpg" alt="" width="100">  | [数字图像处理](/pages/dip.md) | [Google Drive](https://drive.google.com/file/d/1kBmLd-Ik4n2GndXj-rt86rzVzGmG6qqS/view?usp=sharing), [坚果云](https://www.jianguoyun.com/p/DdvpZIgQ7dvLCxiM94QFIAA) | 2022 | 参考[冈萨雷斯大神的教材第4版](https://www.imageprocessingplace.com/index.htm) |
 | <img title="" src="/imgs/dl.jpg" alt="" width="100">   | [深度学习](/pages/dl.md) |  [Google Drive](https://drive.google.com/file/d/1ApC7AewwzWdOqWsodKIcDCgJ9zfvm6pY/view?usp=share_link)，[坚果云(访问密码：`mdykW9`)](https://www.jianguoyun.com/p/DbRRtpgQ7dvLCxjrqcIFIAA)| 2024 | 入题较慢，可以参考[MIT 6.S191](http://introtodeeplearning.com/)、[斯坦福CS231n](http://cs231n.stanford.edu/)、[中科院AICS](https://novel.ict.ac.cn/aics/) 改进；教材推荐[蒲公英书](https://nndl.github.io/)  |
