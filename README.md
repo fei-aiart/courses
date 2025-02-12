@@ -47,7 +47,7 @@
 - [关于大学生活的一些个人想法](/blogs/collegelife.pdf) (PDF)
 
 
-## Star History
+## [Star History](https://star-history.com/#fei-aiart/courses&Date) 
 
 [![Star History Chart](https://api.star-history.com/svg?repos=fei-aiart/courses&type=Date)](https://star-history.com/#fei-aiart/courses&Date)
 
